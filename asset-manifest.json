@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teebay-buggy/static/css/main.0dacdb4a.css",
+    "main.js": "/teebay-buggy/static/js/main.b63c2a33.js",
+    "static/js/787.714c8726.chunk.js": "/teebay-buggy/static/js/787.714c8726.chunk.js",
+    "index.html": "/teebay-buggy/index.html",
+    "main.0dacdb4a.css.map": "/teebay-buggy/static/css/main.0dacdb4a.css.map",
+    "main.b63c2a33.js.map": "/teebay-buggy/static/js/main.b63c2a33.js.map",
+    "787.714c8726.chunk.js.map": "/teebay-buggy/static/js/787.714c8726.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dacdb4a.css",
+    "static/js/main.b63c2a33.js"
+  ]
+}
